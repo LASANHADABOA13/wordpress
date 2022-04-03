@@ -2,6 +2,7 @@
 # link de download do arquivo de exportaçao:
 https://drive.google.com/file/d/1-u-l4BG6ffFBSlCuU59wLkFng-q_OMik/view?usp=sharing
 # PDF
+[pdf24_converted.pdf](https://github.com/LASANHADABOA13/wordpress/files/8405570/pdf24_converted.pdf)
 
 
 # Link Para o site:
